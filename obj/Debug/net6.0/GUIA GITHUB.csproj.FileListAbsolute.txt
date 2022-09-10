@@ -1,0 +1,26 @@
+C:\Users\User\Downloads\GUIA GITHUB\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\Downloads\GUIA GITHUB\bin\Debug\net6.0\appsettings.json
+C:\Users\User\Downloads\GUIA GITHUB\bin\Debug\net6.0\GUIA GITHUB.staticwebassets.runtime.json
+C:\Users\User\Downloads\GUIA GITHUB\bin\Debug\net6.0\GUIA GITHUB.exe
+C:\Users\User\Downloads\GUIA GITHUB\bin\Debug\net6.0\GUIA GITHUB.deps.json
+C:\Users\User\Downloads\GUIA GITHUB\bin\Debug\net6.0\GUIA GITHUB.runtimeconfig.json
+C:\Users\User\Downloads\GUIA GITHUB\bin\Debug\net6.0\GUIA GITHUB.dll
+C:\Users\User\Downloads\GUIA GITHUB\bin\Debug\net6.0\GUIA GITHUB.pdb
+C:\Users\User\Downloads\GUIA GITHUB\obj\Debug\net6.0\GUIA GITHUB.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\GUIA GITHUB\obj\Debug\net6.0\GUIA GITHUB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\GUIA GITHUB\obj\Debug\net6.0\GUIA GITHUB.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\GUIA GITHUB\obj\Debug\net6.0\GUIA GITHUB.AssemblyInfo.cs
+C:\Users\User\Downloads\GUIA GITHUB\obj\Debug\net6.0\GUIA GITHUB.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\GUIA GITHUB\obj\Debug\net6.0\GUIA GITHUB.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Downloads\GUIA GITHUB\obj\Debug\net6.0\GUIA GITHUB.RazorAssemblyInfo.cache
+C:\Users\User\Downloads\GUIA GITHUB\obj\Debug\net6.0\GUIA GITHUB.RazorAssemblyInfo.cs
+C:\Users\User\Downloads\GUIA GITHUB\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\Downloads\GUIA GITHUB\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\Downloads\GUIA GITHUB\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\User\Downloads\GUIA GITHUB\obj\Debug\net6.0\scopedcss\bundle\GUIA GITHUB.styles.css
+C:\Users\User\Downloads\GUIA GITHUB\obj\Debug\net6.0\scopedcss\projectbundle\GUIA GITHUB.bundle.scp.css
+C:\Users\User\Downloads\GUIA GITHUB\obj\Debug\net6.0\GUIA GITHUB.dll
+C:\Users\User\Downloads\GUIA GITHUB\obj\Debug\net6.0\refint\GUIA GITHUB.dll
+C:\Users\User\Downloads\GUIA GITHUB\obj\Debug\net6.0\GUIA GITHUB.pdb
+C:\Users\User\Downloads\GUIA GITHUB\obj\Debug\net6.0\GUIA GITHUB.genruntimeconfig.cache
+C:\Users\User\Downloads\GUIA GITHUB\obj\Debug\net6.0\ref\GUIA GITHUB.dll
